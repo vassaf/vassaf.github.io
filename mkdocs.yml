@@ -1,0 +1,5 @@
+site_name: Döküman ESB
+theme:
+  name: material
+  palette:
+    primary: teal
